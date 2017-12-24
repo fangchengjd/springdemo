@@ -1,5 +1,5 @@
 
 
-[Spring 3 mvc multiple context] based on [Spring 3 mvc properties]
+[Spring 3 mvc classloader] based on [Spring 3 mvc multiple context]
 
-Demo how  Spring Root Context and Servlet Context (Spring 3 XML) works. They ref the exact same one.
+Demo  Inside Spring  to dynamic loading other jar and customized propertiesPlaceholderConfigurr.
