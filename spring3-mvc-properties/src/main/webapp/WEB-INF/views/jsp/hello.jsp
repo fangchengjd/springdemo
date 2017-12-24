@@ -14,8 +14,8 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project </a>
-		<c:out value="${message}" />
+		<a class="navbar-brand" href="#">  Project Name: ${message}</a>
+
 	</div>
   </div>
 </nav>
@@ -24,6 +24,7 @@
   <div class="container">
 	<h1>${title}</h1>
 	<p>
+	
 		<c:if test="${not empty name}">
 			Hello ${name}
 		</c:if>
