@@ -2,6 +2,7 @@
 
 Originally from    https://spring.io/guides/gs/rest-service/
 
+Lab Target:  Very simple, All default config, for boottime, for sime restful service.
 
 2018.01.20
  TBD GreetingControllerTests. Not run and not read it deeply.
