@@ -1,4 +1,4 @@
-package hello;
+package fangcheng.springframework.lab.springboot.rest.simple;
 
 public class Greeting {
 
