@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="fangcheng.springframework.lab.springboot.mybatis.h2.mapper.NameMapper">
+ 
+  <!--手动添加-->
+  <select id="selectAllNames"  resultType="java.lang.String">
+    select name from name;
+  </select>
+
+</mapper>
